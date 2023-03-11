@@ -10,5 +10,5 @@
   "rarity" : "Legendary",
   "icon" : "/interface/statuses/fire.png",
   "chipCost" : 1,
-  "energyCostPerSecond" : 1.2
+  "energyCostPerSecond" : 0
 }
