@@ -4,7 +4,7 @@
 	"effectConfig" : {
 		"shield": ["nodamagedummy","noenergyregendummy","activemovementdummy"]
 	},
-	"defaultDuration" : 0.1,
+	"defaultDuration" : 3.5,
 
 	"scripts" : [
 		"timefreeze2.lua"
