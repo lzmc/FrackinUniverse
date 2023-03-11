@@ -10,7 +10,7 @@ canvasSize = nil
 verified = false
 canvas = nil
 data = nil
-enableCheats=false
+enableCheats=true
 
 -- variables
 searchListRepopulationCooldown = 0
