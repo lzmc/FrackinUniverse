@@ -4,7 +4,7 @@
 	"effectConfig": {
 		"shield": ["cultistshieldAlwaysHidden", "invulnerable","futimewarphidden","nodamagedummy","noenergyregendummy","fupauseallresources","activemovementdummy"]
 	},
-	"defaultDuration": 1.5,
+	"defaultDuration": 3.5,
 
 	"scripts": [
 		"timefreeze2.lua"
